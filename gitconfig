@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rym.barkaoui@gmail.com
+	name = Rym Barkaoui
